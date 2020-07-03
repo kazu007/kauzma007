@@ -72,7 +72,7 @@ a{
 }
 
 /*ボタン*/
-.button{
+/*.button{
   font-size: 1.375rem;
   background: #0bd;
   color: #fff;
@@ -81,7 +81,7 @@ a{
 }
 .button:hover{
   background: #0090aa;
-}
+}*/
 
 /*背景画面*/
 .big-bg{
